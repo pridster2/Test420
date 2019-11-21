@@ -1,0 +1,5 @@
+/images/background/sky/stuff/star0.png
+/images/background/sky/stuff/star1.png
+/images/background/sky/stuff/star2.png
+/images/background/sky/stuff/star3.png
+/images/background/sky/stuff/star4.png
