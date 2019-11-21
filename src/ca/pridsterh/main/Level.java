@@ -34,7 +34,7 @@ public class Level {
 		
 		levelObjects.add(new HeartPickup(3500, 750, newGraphics, this));
 		
-		backgroundImages.add(new BackgroundImage(new Image(getResource("/images/background/sky/gradient_sky_3.png")), 0d));
+		backgroundImages.add(new BackgroundImage(new Image(getResource("/images/background/sky/gradient_sky_2.png")), 0d));
 		//backgroundImages.add(new BackgroundImage("resources/trash/test.txt", 0d));
 		//backgroundImages.add(new BackgroundImage(this.getResource("/images/background/sky/stuff/"), 0d));
 		backgroundImages.add(new BackgroundImage(new Image(getResource("/images/background/sky/sun.png")), 0d));
